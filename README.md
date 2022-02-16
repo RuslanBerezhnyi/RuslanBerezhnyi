@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ruslanSKIF
+- 👋 Hi, I’m @ruslan_beregniy
 - 👀 I’m interested in FrontEnd
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
