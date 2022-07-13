@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruslan_beregniy
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
