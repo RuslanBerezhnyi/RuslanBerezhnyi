@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruslan_beregniy
-- 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning JavaScript, React.js
+- 👀 I’m interested in FrontEnd and DevOps
+- 🌱 I’m currently working with JavaScript, React.js, Angular JS, docker, docker SWARM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
