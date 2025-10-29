@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruslan_berezhnyi
-- 👀 I’m interested in FrontEnd and DevOps
+- 👀 I’m interested in DevOps
 - 🌱 I’m currently working with JavaScript, React.js, Angular JS, docker, docker SWARM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
